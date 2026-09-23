@@ -8,5 +8,4 @@
 [Instagram](https://youtube.com/@x_not_found?si=UuGIni9iygkjUcFK)
 
 ---
-Project Ini dibuat untuk exsperimen pribadi saya dalam membuat pack voice miside sendiri!!!
-semua voice (kecuali suara mita) merupakan 100% Ai
+Project Ini dibuat hanya untuk bersenang senang, apabila ada kendala atau semacamnya Bisa hubungi Kami Di discord milik developer [Xnotfound](https://discord.com/users/[1180712896443977830])
