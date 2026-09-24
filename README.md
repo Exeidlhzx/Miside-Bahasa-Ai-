@@ -53,6 +53,9 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 ---
 
 ### 3. setelahnya kalian akan di bawa ke file manager, lalu kalian klik folder Bernama Data
+
 <p align="center"> 
+  
 <img source="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/empat.png" width="300">
+
 </p>
