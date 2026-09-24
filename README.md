@@ -56,6 +56,6 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 <p align="center"> 
   
-<img source="[https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/empat.png](https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/empat.png)" width="300">
+<img src="[https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/empat.png](https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/empat.png)" width="300">
 
 </p>
