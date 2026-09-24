@@ -9,4 +9,4 @@
 
 ---
 Project Ini dibuat hanya untuk bersenang senang, apabila ada kendala atau semacamnya Bisa hubungi Kami Di [Xnotfound](https://discord.com/users/[1180712896443977830])
-![MiSide](https://example.com/miside.png)
+![MiSide](https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/logo.png)
