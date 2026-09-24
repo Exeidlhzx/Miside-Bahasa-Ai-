@@ -28,6 +28,6 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 ---
 # Cara install VoicePack
-<p align="center"
+<p align="center">
 <img src="https://dswa1xdat8uez.cloudfront.net/2t6m8%2Fpreview%2F81023573%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1790241431&Signature=UxSMtoVXH8MvYKqw5HVduApnjgCw6g-P3fT78IiGJQIg7Rav-4rHWqxkkapp1NXW4J5Fbjozly2HXuXEFsMM-1Dk5JaKPANALf-xAEBrv4CVvBhkJKkGA4HfeoKhLNvlzyKEzn5AFKbNL41pLP~dogOFAhhuTIowyMe0n~AcMzERHmhxg3jMQjswwRQrOO721E10v4VkgSUp1yUjonmQUEA9Bqc5FacvMo1Vt6SYIPWCT1oX~Epoam13WsO8d2ZGP3VxVs~b0ISl1Y2z9t2oKUxHDK~u0nwOvEsApPFWk-7niFLIjDuq9C6JdqPqRh53VZ3AiyKzO3kYK7QpzkQ7~A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="guide1" width="500">
 </p>
