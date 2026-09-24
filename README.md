@@ -94,3 +94,11 @@ Pastikan Juga Folder "Miside VoicePack" Sudah berada Di Folder "LanguagesVoice" 
 <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/Next.png" width="500" alt="next"
 
 </p>
+
+---
+### 6. Dan klik "Bahasa Ai" Dan Klik Kembali
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/NextAftter.png"
+ width="500" alt="sesudah"
+  
+</p>
