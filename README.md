@@ -107,4 +107,4 @@ Pastikan Juga Folder "Miside VoicePack" Sudah berada Di Folder "LanguagesVoice" 
 
 ### Lalu selamat! VoicePack sudah berhasil Di pasang
 
-[Extra]("https://github.com/Exeidlhzx/Miside-Bahasa-Ai-/blob/main/Extras.md")
+[<b>Extra</b>](https://github.com/Exeidlhzx/Miside-Bahasa-Ai-/blob/main/Extras.md)
