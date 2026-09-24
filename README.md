@@ -71,8 +71,8 @@ setelahnya kalian Extract File nya di dalam Folder `LanguagesVoice` setelah itu 
 
 - Kalian juga bisa hapus file yang belum di extract sebelumnya.
 
-<p align="centeer">
+<p align="center">
   
-<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/Uhhh.png" width="100" alt="setelahny">
+<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/Uhhh.png" width="300" alt="setelahny">
 
 </p>
