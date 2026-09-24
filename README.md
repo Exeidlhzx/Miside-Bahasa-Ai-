@@ -28,6 +28,4 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 ---
 # Cara install VoicePack
-<p align="left""> 
-<b>Ayam</b>
-</p>
+--- 
