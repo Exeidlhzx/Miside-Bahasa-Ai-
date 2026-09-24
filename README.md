@@ -59,3 +59,11 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/empat.png" width="300">
 
 </p>
+
+---
+
+### 4. berikutnya klik Folder bernama LanguagesVoice Dan paste file yang kalian download,
+<p align="center"> 
+<img src="j" width="300" alt="Guide4">
+
+</p>
