@@ -38,6 +38,6 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 ### 2. Setelahnya arahkan cursor ke menu Manage seperti di gambar
 
 <p align="center">
-<img scr="https://ibb.co.com/Qvxs9Tpx" alt="guide2" width="500">
+<img scr="https://i.ibb.co.com/PGVBxPFV/tiga.png" alt="guide2" width="500">
   
 </p>
