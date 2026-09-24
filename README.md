@@ -2,9 +2,11 @@
   <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/misidess.png" alt="MiSide Preview" width="500">
 </p>
 
-# MiSide Ai Voice project 
+# MiSide AI Voice Project
+
 ---
-### Credits 
+
+### Credits
 
 ## Xnotfound
 
@@ -12,8 +14,13 @@
 [Instagram](https://www.instagram.com/indra_refalino_3966?stkn=MXAxYmJ0ejhkdWEyeg==)
 
 ---
-Project Ini dibuat hanya untuk bersenang senang, apabila ada kendala atau semacamnya Bisa hubungi Kami Di [Xnotfound](https://discord.com/users/[1180712896443977830])
+
+Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semacamnya, bisa hubungi kami di [Xnotfound](https://discord.com/users/1180712896443977830).
+
 ---
+
 <p align="left">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-10919025.png?f=webp&w=256" alt="MiSide Preview" width="100" (https:youtube.com)>
+  <a href="https://github.com/Exeidlhzx/Miside-Bahasa-Ai-">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-10919025.png?f=webp&w=256" alt="GitHub" width="100">
+  </a>
 </p>
