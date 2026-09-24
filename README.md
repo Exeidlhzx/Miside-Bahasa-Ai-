@@ -28,7 +28,7 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 ---
 # Cara install VoicePack
-### Buka library Miside di steam Dan klik Icon Gear seperti yang ada di gambar
+### 1. Buka library Miside di steam Dan klik Icon Gear seperti yang ada di gambar
 <p align="center">
 <img src="https://d3o8hbmq1ueggw.cloudfront.net/6cgm8%2Fpreview%2F81023916%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1790242484&Signature=hldw15sRcFGRTXbfwDlbI80oszU35wS7HfffSZlz2S2MpeCHT1XHj2-bj5kTCXVL7Q25Zp1Yti2~DNpN2Ts5UQCWTkMxmZZ7p93NEOesX9zR-M2GHm-ZFVCofUYYhwyIHvmurxlklXoQadiKWLbXKx9WT1uh3zjS4G2bGvMzGGPUJ5ePuAXV1lrNEyJquMq916KwMP04z63gT~6D8LeFvDupz7weeoBTLdkx6ZJLTla9MedO8MgelXnn7KIN~vc2dfzx553f02NYD9qVHagJedMLYrumutx5P1W4YOF2qekdquvbhpVaZ3OcNcSfLbo2lUdl6o4oMsPKV6vN0dAilQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="guide1" width="500">
 </p>
