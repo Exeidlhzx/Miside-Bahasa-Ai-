@@ -67,7 +67,7 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/lima.png" width="300" alt="Guide4">
 
 </p>
-setelahnya kalian Extract File nya di dalam Folder `LanguagesVoice` setelah itu kalian akan melihat satu folder baru Bernama `Miside VoicePack`  yang di dalamnya terdapat banyak folder lainnya, dan jangan apa apakan lagi.
+setelahnya kalian Extract File nya di dalam Folder "LanguagesVoice" setelah itu kalian akan melihat satu folder baru Bernama "Miside VoicePack"  yang di dalamnya terdapat banyak folder lainnya, dan jangan apa apakan lagi.
 
 - Kalian juga bisa hapus file yang belum di extract sebelumnya.
 
@@ -76,3 +76,8 @@ setelahnya kalian Extract File nya di dalam Folder `LanguagesVoice` setelah itu 
 <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/Uhhh.png" width="300" alt="setelahny">
 
 </p>
+
+### Ini adalah hasil Setelah pengekstrakan, cukup perhatikan Folder "Miside VoicePack" dan jangan mengganti folder lain seperti :
+- English
+- French
+- Dan Lainnya
