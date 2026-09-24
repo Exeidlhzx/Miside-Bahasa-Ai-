@@ -25,3 +25,6 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-svg-download-png-100117.png?f=webp&w=256" alt+"yt" width="100">
   </a>
 </p>
+
+---
+# Cara install VoicePack
