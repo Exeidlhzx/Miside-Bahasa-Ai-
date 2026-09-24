@@ -38,6 +38,5 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 ### 2. Setelahnya arahkan cursor ke menu Manage seperti di gambar
 
 <p align="center">
-<img scr="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/dua.png" alt="guide2" width="500">
-  
+<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/dua.png" width="100">
 </p>
