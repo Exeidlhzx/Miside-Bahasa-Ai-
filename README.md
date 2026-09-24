@@ -40,3 +40,7 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 <p align="center">
 <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/dua.png" width="100">
 </p>
+
+---
+
+### 3. 
