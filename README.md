@@ -28,5 +28,5 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 ---
 # Cara install VoicePack
-'tea'
+`test`
 --- 
