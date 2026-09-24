@@ -22,5 +22,6 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 <p align="left">
   <a href="https://github.com/Exeidlhzx/Miside-Bahasa-Ai-">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-10919025.png?f=webp&w=256" alt="GitHub" width="100">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-svg-download-png-721990.png?f=webp&w=256" alt+"yt" width="100">
   </a>
 </p>
