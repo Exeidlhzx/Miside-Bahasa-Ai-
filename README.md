@@ -35,7 +35,7 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 --- 
 
-# 2. Setelahnya arahkan cursor ke menu Manage seperti di gambar
+### 2. Setelahnya arahkan cursor ke menu Manage seperti di gambar
 
 <p align="center">
 <img scr="l" alt="guide2" width="500">
