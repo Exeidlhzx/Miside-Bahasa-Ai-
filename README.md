@@ -13,4 +13,4 @@
 
 ---
 Project Ini dibuat hanya untuk bersenang senang, apabila ada kendala atau semacamnya Bisa hubungi Kami Di [Xnotfound](https://discord.com/users/[1180712896443977830])
-![MiSide](https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/logo.png)
+![MiSide](https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-10919025.png?f=webp&w=256)
