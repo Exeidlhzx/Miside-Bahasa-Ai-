@@ -102,3 +102,5 @@ Pastikan Juga Folder "Miside VoicePack" Sudah berada Di Folder "LanguagesVoice" 
  width="500" alt="sesudah"
   
 </p>
+---
+### Lalu selamat! VoicePack sudah berhasil Di pasang
