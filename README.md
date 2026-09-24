@@ -62,8 +62,8 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 
 ---
 
-### 4. berikutnya klik Folder bernama LanguagesVoice Dan paste file yang kalian download,
+### 4. berikutnya klik Folder bernama LanguagesVoice Dan paste file yang kalian download Di dalam folder tersebut
 <p align="center"> 
-<img src="j" width="300" alt="Guide4">
+<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/lima.png" width="300" alt="Guide4">
 
 </p>
