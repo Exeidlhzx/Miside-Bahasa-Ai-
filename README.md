@@ -81,3 +81,7 @@ setelahnya kalian Extract File nya di dalam Folder "LanguagesVoice" setelah itu 
 - English
 - French
 - Dan Lainnya
+  
+---
+
+Pastikan Juga Folder "Miside VoicePack" Sudah berada Di Folder "LanguagesVoice" seperti intruksi sebelumnnya
