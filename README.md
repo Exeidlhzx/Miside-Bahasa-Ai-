@@ -87,3 +87,6 @@ setelahnya kalian Extract File nya di dalam Folder "LanguagesVoice" setelah itu 
 ---
 
 Pastikan Juga Folder "Miside VoicePack" Sudah berada Di Folder "LanguagesVoice" seperti intruksi sebelumnnya
+
+---
+### 5. Masuk Ke dalam Game 
