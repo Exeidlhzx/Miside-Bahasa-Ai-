@@ -91,6 +91,6 @@ Pastikan Juga Folder "Miside VoicePack" Sudah berada Di Folder "LanguagesVoice" 
 ---
 ### 5. Masuk Ke dalam Game Dan Klik Menu suara
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/Next.png" width="300" alt="next"
+<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/Next.png" width="500" alt="next"
 
 </p>
