@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/misidess.png" alt="MiSide Preview" width="100">
+  <img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/misidess.png" alt="MiSide Preview" width="500">
 </p>
 
 # MiSide Ai Voice project 
