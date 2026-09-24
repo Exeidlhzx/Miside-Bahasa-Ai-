@@ -46,6 +46,6 @@ Project ini dibuat hanya untuk bersenang-senang. Apabila ada kendala atau semaca
 ### 3. Lalu Klik Browse Local File 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/tiga.png" width="100">
+<img src="https://raw.githubusercontent.com/Exeidlhzx/Miside-Bahasa-Ai-/refs/heads/main/tiga.png" width="300">
 
 </p>
